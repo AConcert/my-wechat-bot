@@ -1,1 +1,1 @@
-export const viaChatGPT = "via ChatGPT";
+export const viaChatGPT = "via 张大哥";
